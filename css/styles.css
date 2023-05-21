@@ -132,7 +132,6 @@ content: "";
 display: inline-block;
 position: absolute;
 left: 0; 
-top: 68px;
 bottom: -1px; 
 height: 4px;
 width: 100%;
@@ -380,12 +379,6 @@ border-radius: 2px;
   border: 1px solid #404BBF;
   color: #404bbf;
 }
-
-.customers-list-link:hover .customer-list-icon,
-.customers-list-link:focus .customer-list-icon {
-  fill: #404BBF;
-}
-
 
 
 /* footer */
